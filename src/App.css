@@ -1,3 +1,6 @@
+@import '~zuck.js/dist/skins/snapgram.min.css';
+@import '~zuck.js/dist/zuck.min.css';
+
 .App {
   text-align: center;
 }
